@@ -4,3 +4,6 @@ cout<<endl;
 
 cout<<"subtract two numbers"<<a-b;
 cout endl;
+
+cout<<"product of two numbers"<<a*b;
+cout<<endl;
